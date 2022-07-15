@@ -44,7 +44,7 @@ dask==2.5.2
 decorator==4.4.0
 defusedxml==0.6.0
 diff-match-patch==20181111
-distributed==2.5.2
+distributed==2021.10.0
 Django==3.0.4
 django-ckeditor==5.8.0
 django-cors-headers==3.2.1
